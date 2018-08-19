@@ -16,7 +16,7 @@
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
-			<td>Student Password :</td>
+			<td> Password :</td>
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
